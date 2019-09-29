@@ -1,0 +1,20 @@
+C:\Users\Nora\Documents\Visual Studio 2017\Projects\Practica1.BitsYBytes\Practica1.BitsYBytes\bin\Debug\Practica1.BitsYBytes.exe.config
+C:\Users\Nora\Documents\Visual Studio 2017\Projects\Practica1.BitsYBytes\Practica1.BitsYBytes\bin\Debug\Practica1.BitsYBytes.exe
+C:\Users\Nora\Documents\Visual Studio 2017\Projects\Practica1.BitsYBytes\Practica1.BitsYBytes\bin\Debug\Practica1.BitsYBytes.pdb
+C:\Users\Nora\Documents\Visual Studio 2017\Projects\Practica1.BitsYBytes\Practica1.BitsYBytes\obj\Debug\Practica1.BitsYBytes.csprojResolveAssemblyReference.cache
+C:\Users\Nora\Documents\Visual Studio 2017\Projects\Practica1.BitsYBytes\Practica1.BitsYBytes\obj\Debug\Practica1.BitsYBytes.Form1.resources
+C:\Users\Nora\Documents\Visual Studio 2017\Projects\Practica1.BitsYBytes\Practica1.BitsYBytes\obj\Debug\Practica1.BitsYBytes.Properties.Resources.resources
+C:\Users\Nora\Documents\Visual Studio 2017\Projects\Practica1.BitsYBytes\Practica1.BitsYBytes\obj\Debug\Practica1.BitsYBytes.csproj.GenerateResource.Cache
+C:\Users\Nora\Documents\Visual Studio 2017\Projects\Practica1.BitsYBytes\Practica1.BitsYBytes\obj\Debug\Practica1.BitsYBytes.csproj.CoreCompileInputs.cache
+C:\Users\Nora\Documents\Visual Studio 2017\Projects\Practica1.BitsYBytes\Practica1.BitsYBytes\obj\Debug\Practica1.BitsYBytes.exe
+C:\Users\Nora\Documents\Visual Studio 2017\Projects\Practica1.BitsYBytes\Practica1.BitsYBytes\obj\Debug\Practica1.BitsYBytes.pdb
+C:\Users\Nora\repos\EstructuraDeDatos\Practica1.BitsYBytes\Practica1.BitsYBytes\obj\Debug\Practica1.BitsYBytes.csprojResolveAssemblyReference.cache
+C:\Users\Nora\repos\EstructuraDeDatos\Practica1.BitsYBytes\Practica1.BitsYBytes\obj\Debug\Practica1.BitsYBytes.Form1.resources
+C:\Users\Nora\repos\EstructuraDeDatos\Practica1.BitsYBytes\Practica1.BitsYBytes\obj\Debug\Practica1.BitsYBytes.Properties.Resources.resources
+C:\Users\Nora\repos\EstructuraDeDatos\Practica1.BitsYBytes\Practica1.BitsYBytes\obj\Debug\Practica1.BitsYBytes.csproj.GenerateResource.Cache
+C:\Users\Nora\repos\EstructuraDeDatos\Practica1.BitsYBytes\Practica1.BitsYBytes\obj\Debug\Practica1.BitsYBytes.csproj.CoreCompileInputs.cache
+C:\Users\Nora\repos\EstructuraDeDatos\Practica1.BitsYBytes\Practica1.BitsYBytes\obj\Debug\Practica1.BitsYBytes.exe
+C:\Users\Nora\repos\EstructuraDeDatos\Practica1.BitsYBytes\Practica1.BitsYBytes\obj\Debug\Practica1.BitsYBytes.pdb
+C:\Users\Nora\repos\EstructuraDeDatos\Practica1.BitsYBytes\Practica1.BitsYBytes\bin\Debug\Practica1.BitsYBytes.exe.config
+C:\Users\Nora\repos\EstructuraDeDatos\Practica1.BitsYBytes\Practica1.BitsYBytes\bin\Debug\Practica1.BitsYBytes.exe
+C:\Users\Nora\repos\EstructuraDeDatos\Practica1.BitsYBytes\Practica1.BitsYBytes\bin\Debug\Practica1.BitsYBytes.pdb
