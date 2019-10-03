@@ -1,0 +1,10 @@
+C:\Users\JOSE\Desktop\Actividad.ListasCirculares\Actividad.ListasCirculares\obj\Debug\Actividad.ListasCirculares.csprojAssemblyReference.cache
+C:\Users\JOSE\Desktop\Actividad.ListasCirculares\Actividad.ListasCirculares\obj\Debug\Actividad.ListasCirculares.Form1.resources
+C:\Users\JOSE\Desktop\Actividad.ListasCirculares\Actividad.ListasCirculares\obj\Debug\Actividad.ListasCirculares.Properties.Resources.resources
+C:\Users\JOSE\Desktop\Actividad.ListasCirculares\Actividad.ListasCirculares\obj\Debug\Actividad.ListasCirculares.csproj.GenerateResource.cache
+C:\Users\JOSE\Desktop\Actividad.ListasCirculares\Actividad.ListasCirculares\obj\Debug\Actividad.ListasCirculares.csproj.CoreCompileInputs.cache
+C:\Users\JOSE\Desktop\Actividad.ListasCirculares\Actividad.ListasCirculares\bin\Debug\Actividad.ListasCirculares.exe.config
+C:\Users\JOSE\Desktop\Actividad.ListasCirculares\Actividad.ListasCirculares\bin\Debug\Actividad.ListasCirculares.exe
+C:\Users\JOSE\Desktop\Actividad.ListasCirculares\Actividad.ListasCirculares\bin\Debug\Actividad.ListasCirculares.pdb
+C:\Users\JOSE\Desktop\Actividad.ListasCirculares\Actividad.ListasCirculares\obj\Debug\Actividad.ListasCirculares.exe
+C:\Users\JOSE\Desktop\Actividad.ListasCirculares\Actividad.ListasCirculares\obj\Debug\Actividad.ListasCirculares.pdb
